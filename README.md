@@ -1,0 +1,2 @@
+# NewWords
+My stupid ideas
